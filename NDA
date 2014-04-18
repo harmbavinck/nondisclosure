@@ -1,9 +1,9 @@
 MUTUAL CONFIDENTIALITY AGREEMENT
 
 
-This mutual confidentiality agreement (“Agreement”) is entered into on ${dossierStart} by and between:
+This mutual confidentiality agreement ${ndaAgreement} is entered into on ${contractEffectiveDate} by and between:
 
-A.	${Counterparty}, with offices located at ${companyAddress}, ${companyZip} ${companyCity}, ${companyCountry} (“External Party”) and
+A.	[Counterparty], with offices located at [companyAddress], [companyZip] [companyCity], [companyCountry] [External Party] and
 
 and 
 
@@ -23,17 +23,18 @@ NOW THEREFORE, in order to protect each Party’s rights with respect to its Inf
 
 1.	In addition to the other capitalized terms defined elsewhere in this Agreement, the following capitalized terms shall have the following meaning:
 
-“Affiliate” means a Nescio Company, whether a corporation or other business entity, that is Controlling, Controlled by or under common Control with a Party. 
+[Affiliate] means a Nescio Company, whether a corporation or other business entity, that is Controlling, Controlled by or under common Control with a Party. 
 
-“Authorized Representative” means a director, officer, employee or consultant of the Receiving Party and/or an Affiliate thereof who has a “need to know” the Disclosing Party’s Information to achieve the Purpose.
+[Authorized Representative] means a director, officer, employee or consultant of the Receiving Party and/or an Affiliate thereof who has a “need to know” the Disclosing Party’s Information to achieve the Purpose.
 
-“Control” means the direct or indirect ownership of more than fifty percent (50%) of the equity interest in an entity, or the ability in fact to control the management decisions of such entity.
+[Control] means the direct or indirect ownership of more than fifty percent (50%) of the equity interest in an entity, or the ability in fact to control the management decisions of such entity.
 
-“Disclosing Party” means the Party who directly or indirectly discloses  Information under this Agreement.
+[Disclosing Party] means the Party who directly or indirectly discloses  Information under this Agreement.
 
-“Receiving Party” means the Party receiving or gaining access to Information from or on behalf of the Disclosing Party.
+[Receiving Party] means the Party receiving or gaining access to Information from or on behalf of the Disclosing Party.
 
 2.	Each Party agrees that it:
+
 a.	shall not use Information received from or on behalf of the Disclosing Party except for the Purpose;
 b.	without detracting from the generality of Section 2(a), shall not use Information received from or on behalf of the Disclosing Party to reverse engineer or design around the Disclosing Party’s proprietary projects and products; and 
 c.	shall not disclose Information received from or on behalf of the Disclosing Party to any person or entity, except for an Affiliate or Authorized Representative who is bound by confidentiality and non-use obligations at least as restrictive as those contained herein under a written agreement with the Receiving Party. 
